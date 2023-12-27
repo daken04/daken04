@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Aryan Verma</h1>
 <h3>Passionate about Advancing Technology and Innovation 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
 
 - 🌱 I’m currently learning **NLP and Deep Learning**
 
