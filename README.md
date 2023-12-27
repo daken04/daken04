@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 <h3 align="center">Passionate about Advancing Technology and Innovation 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daken04" alt="daken04" /></a> </p>
-
 - 🌱 I’m currently learning **NLP and Deep Learning**
 
 - 📫 How to reach me **aryan.vermav417@gmail.com**
