@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Verma</h1>
-<h3 align="center">Passionate about Advancing Technology and Innovation 🚀</h3>
+<h1>Hi 👋, I'm Aryan Verma</h1>
+<h3>Passionate about Advancing Technology and Innovation 🚀</h3>
 
 - 🌱 I’m currently learning **NLP and Deep Learning**
 
